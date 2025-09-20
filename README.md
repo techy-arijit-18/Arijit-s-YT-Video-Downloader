@@ -61,12 +61,6 @@ A comprehensive Python application with modern GUI for downloading YouTube video
 - **Real-time Feedback** - Progress bars and status updates
 - **Responsive Design** - Resizable window with proper scaling
 
-### Simple Version (simple_youtube_downloader.py)
-- **Standard Look** - Uses default system theme
-- **Same Functionality** - All core features available
-- **Lighter Requirements** - Only needs yt-dlp package
-- **Cross-platform** - Works on all systems with Python
-
 ## 🔧 Configuration Options
 
 ### Video Quality Options
